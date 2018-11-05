@@ -1,4 +1,4 @@
-# LeNet-Naive
+# LeNet Naive
 O objetivo deste trabalho consiste na implementação da LeNet-5 com ReLU, minibatch = 32, batch normalization, inicialização de pesos de He, saída SoftMax. Devendo ser aplicado no banco MNIST.  
 ## Implementação
 Este projeto consiste na implementação da arquitetura LeNet-5. Também foi usado o método do gradiente como forma de aprendizagem, para isso, foi necessário a redução de neurônios nas camadas, para que o algoritmo pudesse rodar de forma mais rápida.  
