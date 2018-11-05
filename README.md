@@ -5,4 +5,4 @@ Este projeto consiste na implementação da arquitetura LeNet-5. Também foi usa
 ## Resultados
 Foram feitas 44 iterações e houve uma redução da perda média com o uso da busca local usando gradiente com decaimento consideravelmente rápida no início, mas com atenuação com poucas iterações, chegando em uma perda média de 1.979500943 após as 44 iterações.  
 
-![Gráfico da perda média](https://i.imgur.com/bPwejUf.png)
+![Gráfico da perda média](https://i.imgur.com/FIlDeIb.png)
